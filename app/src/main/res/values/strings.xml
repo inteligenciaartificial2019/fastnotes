@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FastNotes</string>
+    <string name="hint_titulo">Título de la tarea</string>
+    <string name="hint_descripcion">Descripción de la tarea</string>
+    <string name="rbBaja">Baja</string>
+    <string name="rbMedia">Media</string>
+    <string name="rbAlta">Alta</string>
+    <string name="btnAgregar">Agregar la nota</string>
+    <string name="alert_dialog_delete_title">Elija una opción</string>
+    <string name="alert_dialog_delete_body">¿Qué desea realizar con la nota?</string>
+    <string name="alert_dialog_delete_positive_button">Modificar</string>
+    <string name="alert_dialog_delete_negative_button">Eliminar</string>
+    <string name="alert_dialog_delete_neutral_button">Cancelar</string>
+    <string name="alert_dialog_delete_note">Nota eliminada satisfactoriamente</string>
+    <string name="alert_dialog_delete_cancel">No se han realizado cambios en tus notas</string>
+</resources>
